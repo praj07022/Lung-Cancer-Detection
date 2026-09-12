@@ -42,17 +42,9 @@ Model Evaluation
    ↓
 Prediction
 
-
-## Demo Video
-
-A complete demonstration of the project is available below.
-
-[▶️ Watch Lung Cancer Detection Demo](Lung%20Cancer%20Detection%20-%20Personal%20-%20Microsoft%20Edge%202025-08-27%2008-36-36.mp4)
-
-
 ## Project Structure
 
-```text
+```
 Lung-Cancer-Detection/
 │
 ├── dataset/
@@ -91,6 +83,21 @@ pip install -r requirements.txt
 ```
 
 Run the project using the appropriate Python script or notebook included in the repository.
+
+
+## Screenshots
+
+### Login Page
+![Starting Page](screenshots/introduction.png)
+
+### Dataset
+![Dataset](screenshots/dataset.png)
+
+### Prediction
+![Prediction](screenshots/prediction.png)
+
+### CNN
+![CNN](screenshots/cnn.png)
 
 ## What I Learned
 
