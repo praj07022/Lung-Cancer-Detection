@@ -1,4 +1,3 @@
-````md
 # Lung Cancer Detection
 
 A machine learning project that predicts the possibility of lung cancer based on medical and lifestyle-related input data.
@@ -42,7 +41,7 @@ Model Training
 Model Evaluation
    ↓
 Prediction
-````
+
 
 ## Demo Video
 
